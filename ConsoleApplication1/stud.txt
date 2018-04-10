@@ -1,0 +1,33 @@
+Count of students: 32
+Reginald M.D.   16. 8.1982  Male
+Hawkins A.M.   20. 1.1997  Male
+Campbell G.F.   24. 1.1986  Male
+Woods G.F.    7. 6.1998  Male
+Campbell C.K.   11. 1.1980  Female
+Hawkins C.K.    4. 6.1985  Male
+Hawkins B.V.    4.10.1982  Male
+Hawkins B.V.   17. 8.1996  Male
+Woods A.M.   13. 5.1997  Female
+Douglas G.F.    2.10.1987  Male
+Wilson A.M.   17.11.1989  Female
+Campbell G.F.   19. 3.1998  Female
+Wilson G.F.    5. 1.1980  Female
+Hawkins C.V.   19. 9.1990  Female
+Martin C.V.   29. 9.1989  Female
+Gardner I.Y.   14. 8.1994  Male
+Montgomery M.D.    5. 6.1986  Male
+Reginald G.F.   17. 9.1984  Female
+Douglas K.N.   22. 5.1981  Male
+Reginald I.Y.   10. 6.1984  Female
+Wilson O.P.   20. 9.1995  Female
+Gardner G.F.   30.10.1982  Male
+Gardner O.P.   13. 5.1989  Female
+Douglas C.V.   19. 1.1991  Male
+Douglas K.N.   10. 8.1999  Female
+Hawkins K.N.   24. 7.1981  Male
+Wilson O.P.    9. 3.1981  Female
+Gardner A.M.   14. 9.1987  Female
+Reginald C.K.   30. 4.1997  Female
+Martin I.Y.   10. 4.1986  Female
+Gardner C.K.   13.10.1991  Male
+Reginald I.Y.   15. 4.1981  Male
