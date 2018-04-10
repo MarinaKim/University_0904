@@ -1,33 +1,525 @@
-Count of students: 32
-Reginald M.D.   16. 8.1982  Male
-Hawkins A.M.   20. 1.1997  Male
-Campbell G.F.   24. 1.1986  Male
-Woods G.F.    7. 6.1998  Male
-Campbell C.K.   11. 1.1980  Female
-Hawkins C.K.    4. 6.1985  Male
-Hawkins B.V.    4.10.1982  Male
-Hawkins B.V.   17. 8.1996  Male
-Woods A.M.   13. 5.1997  Female
-Douglas G.F.    2.10.1987  Male
-Wilson A.M.   17.11.1989  Female
-Campbell G.F.   19. 3.1998  Female
-Wilson G.F.    5. 1.1980  Female
-Hawkins C.V.   19. 9.1990  Female
-Martin C.V.   29. 9.1989  Female
-Gardner I.Y.   14. 8.1994  Male
-Montgomery M.D.    5. 6.1986  Male
-Reginald G.F.   17. 9.1984  Female
-Douglas K.N.   22. 5.1981  Male
-Reginald I.Y.   10. 6.1984  Female
-Wilson O.P.   20. 9.1995  Female
-Gardner G.F.   30.10.1982  Male
-Gardner O.P.   13. 5.1989  Female
-Douglas C.V.   19. 1.1991  Male
-Douglas K.N.   10. 8.1999  Female
-Hawkins K.N.   24. 7.1981  Male
-Wilson O.P.    9. 3.1981  Female
-Gardner A.M.   14. 9.1987  Female
-Reginald C.K.   30. 4.1997  Female
-Martin I.Y.   10. 4.1986  Female
-Gardner C.K.   13.10.1991  Male
-Reginald I.Y.   15. 4.1981  Male
+Douglas M.D.
+9
+6
+1985
+Female
+subject#24 99
+subject#7 67
+subject#6 49
+subject#4 76
+subject#2 38
+subject#22 28
+subject#19 32
+subject#25 42
+subject#5 97
+subject#16 87
+Hawkins M.D.
+16
+10
+1983
+Male
+subject#13 18
+subject#11 77
+subject#8 95
+subject#13 46
+subject#28 37
+subject#13 1
+subject#12 24
+subject#1 76
+subject#7 65
+subject#15 48
+Douglas C.V.
+6
+1
+1986
+Female
+subject#18 96
+subject#27 39
+subject#18 10
+subject#28 11
+subject#3 77
+subject#22 31
+subject#13 31
+subject#8 79
+subject#18 66
+subject#5 18
+Hawkins C.V.
+11
+3
+1989
+Female
+subject#23 80
+subject#5 37
+subject#23 6
+subject#17 84
+subject#4 80
+subject#8 78
+subject#21 75
+subject#11 49
+subject#7 98
+subject#16 89
+Douglas B.V.
+11
+9
+1991
+Male
+subject#7 98
+subject#11 62
+subject#11 78
+subject#26 2
+subject#13 84
+subject#9 43
+subject#6 66
+subject#21 22
+subject#8 81
+subject#28 16
+Douglas G.F.
+28
+6
+1992
+Male
+subject#12 92
+subject#7 57
+subject#24 71
+subject#3 38
+subject#18 73
+subject#24 67
+subject#27 70
+subject#24 89
+subject#5 52
+subject#12 35
+Woods I.Y.
+4
+3
+1990
+Female
+subject#3 73
+subject#6 85
+subject#26 0
+subject#23 53
+subject#4 98
+subject#18 27
+subject#6 89
+subject#23 62
+subject#28 21
+subject#21 14
+Douglas C.K.
+30
+8
+1999
+Male
+subject#8 59
+subject#22 78
+subject#13 44
+subject#15 34
+subject#29 97
+subject#26 34
+subject#6 35
+subject#28 57
+subject#25 79
+subject#10 51
+Montgomery O.P.
+11
+10
+1994
+Male
+subject#7 19
+subject#23 37
+subject#6 27
+subject#19 59
+subject#6 99
+subject#8 14
+subject#2 55
+subject#14 51
+subject#29 61
+subject#7 48
+Douglas A.M.
+17
+6
+1995
+Female
+subject#21 93
+subject#11 61
+subject#13 85
+subject#13 39
+subject#25 1
+subject#1 59
+subject#28 32
+subject#8 79
+subject#13 67
+subject#29 52
+Douglas B.V.
+4
+3
+1988
+Female
+subject#13 22
+subject#23 67
+subject#4 34
+subject#5 48
+subject#26 15
+subject#0 84
+subject#16 42
+subject#25 85
+subject#14 93
+subject#11 70
+Douglas G.F.
+28
+6
+1986
+Male
+subject#4 73
+subject#28 96
+subject#21 78
+subject#29 72
+subject#0 86
+subject#22 90
+subject#18 68
+subject#14 34
+subject#16 71
+subject#18 41
+Montgomery C.K.
+25
+1
+1985
+Male
+subject#9 14
+subject#28 77
+subject#16 68
+subject#2 56
+subject#17 39
+subject#21 51
+subject#5 24
+subject#27 42
+subject#21 94
+subject#0 26
+Martin O.P.
+2
+5
+1984
+Male
+subject#14 41
+subject#2 83
+subject#4 28
+subject#26 88
+subject#4 11
+subject#7 42
+subject#28 77
+subject#7 15
+subject#2 68
+subject#22 79
+Campbell A.M.
+14
+2
+1991
+Male
+subject#22 61
+subject#2 80
+subject#14 84
+subject#6 61
+subject#18 72
+subject#19 16
+subject#18 94
+subject#13 15
+subject#17 77
+subject#5 22
+Woods B.V.
+12
+3
+1999
+Male
+subject#6 28
+subject#23 23
+subject#3 8
+subject#19 28
+subject#5 67
+subject#24 67
+subject#18 28
+subject#24 31
+subject#28 37
+subject#6 27
+Wilson C.V.
+7
+11
+1982
+Female
+subject#0 76
+subject#17 53
+subject#25 23
+subject#26 70
+subject#27 9
+subject#21 39
+subject#13 77
+subject#17 1
+subject#15 4
+subject#27 35
+Montgomery C.K.
+3
+7
+1985
+Female
+subject#27 4
+subject#9 63
+subject#25 55
+subject#0 24
+subject#0 37
+subject#7 37
+subject#6 69
+subject#18 62
+subject#20 28
+subject#8 17
+Campbell A.M.
+9
+10
+1989
+Male
+subject#3 20
+subject#17 85
+subject#6 7
+subject#7 57
+subject#24 31
+subject#25 24
+subject#22 26
+subject#10 24
+subject#14 68
+subject#7 53
+Campbell O.P.
+9
+4
+1999
+Male
+subject#13 5
+subject#20 25
+subject#6 25
+subject#1 42
+subject#18 4
+subject#9 53
+subject#2 84
+subject#15 91
+subject#22 8
+subject#13 81
+Montgomery O.P.
+22
+11
+1997
+Male
+subject#29 34
+subject#2 76
+subject#29 27
+subject#2 99
+subject#28 46
+subject#9 87
+subject#14 87
+subject#9 8
+subject#15 96
+subject#28 85
+Gardner C.V.
+3
+2
+1996
+Female
+subject#3 52
+subject#13 91
+subject#20 12
+subject#21 72
+subject#4 3
+subject#27 68
+subject#15 84
+subject#20 88
+subject#11 14
+subject#1 57
+Martin I.Y.
+12
+6
+1996
+Male
+subject#2 7
+subject#7 16
+subject#8 35
+subject#15 99
+subject#26 66
+subject#18 62
+subject#11 15
+subject#22 19
+subject#2 50
+subject#6 64
+Hawkins K.N.
+5
+10
+1983
+Male
+subject#15 63
+subject#24 50
+subject#22 76
+subject#15 40
+subject#13 76
+subject#26 74
+subject#16 58
+subject#21 91
+subject#9 81
+subject#6 92
+Reginald C.V.
+29
+4
+1997
+Male
+subject#14 12
+subject#19 38
+subject#3 10
+subject#14 29
+subject#3 86
+subject#24 98
+subject#5 13
+subject#20 95
+subject#17 18
+subject#10 69
+Douglas M.D.
+16
+7
+1996
+Female
+subject#0 46
+subject#20 30
+subject#22 64
+subject#12 21
+subject#20 72
+subject#2 63
+subject#4 85
+subject#13 38
+subject#29 94
+subject#3 59
+Hawkins M.D.
+19
+1
+1982
+Male
+subject#1 12
+subject#20 10
+subject#20 77
+subject#20 48
+subject#7 96
+subject#1 72
+subject#14 5
+subject#29 46
+subject#4 23
+subject#8 61
+Woods C.V.
+26
+11
+1988
+Male
+subject#0 50
+subject#1 82
+subject#20 10
+subject#8 16
+subject#21 19
+subject#14 16
+subject#3 92
+subject#10 63
+subject#29 15
+subject#13 45
+Wilson G.F.
+9
+8
+1986
+Male
+subject#26 46
+subject#25 92
+subject#0 90
+subject#6 81
+subject#23 2
+subject#16 13
+subject#11 19
+subject#28 98
+subject#5 91
+subject#23 73
+Wilson B.V.
+7
+10
+1996
+Female
+subject#9 72
+subject#0 42
+subject#3 28
+subject#15 56
+subject#9 49
+subject#26 33
+subject#0 31
+subject#5 96
+subject#4 71
+subject#11 67
+Campbell M.D.
+7
+11
+1997
+Female
+subject#10 94
+subject#28 46
+subject#0 74
+subject#16 21
+subject#12 97
+subject#7 98
+subject#22 80
+subject#8 65
+subject#13 91
+subject#14 21
+Gardner B.V.
+23
+6
+1995
+Male
+subject#2 97
+subject#2 51
+subject#14 66
+subject#21 46
+subject#29 13
+subject#16 34
+subject#5 70
+subject#11 90
+subject#0 90
+subject#12 52
+Wilson A.M.
+25
+6
+1986
+Male
+subject#5 79
+subject#3 15
+subject#18 24
+subject#19 42
+subject#6 95
+subject#20 33
+subject#24 14
+subject#11 39
+subject#10 36
+subject#28 31
+Martin O.P.
+3
+5
+1992
+Male
+subject#29 97
+subject#17 70
+subject#26 23
+subject#25 60
+subject#19 60
+subject#28 87
+subject#14 72
+subject#4 23
+subject#9 54
+subject#20 54
+Gardner B.V.
+2
+8
+1988
+Male
+subject#29 43
+subject#19 95
+subject#25 22
+subject#29 29
+subject#28 1
+subject#12 33
+subject#17 31
+subject#29 86
+subject#0 9
+subject#27 58

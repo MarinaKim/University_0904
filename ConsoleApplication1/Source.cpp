@@ -8,10 +8,13 @@
 #include "WorkWithStudent.h"
 
 using namespace std;
+int countStud;
+
 void main()
 {
 	setlocale(LC_ALL, "Rus");
 	srand(time(NULL));
 	
 	CreatFileOfStudents("stud.txt", "w");
+	difGender("stud.txt", "r");
 }

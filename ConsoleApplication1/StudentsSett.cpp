@@ -33,7 +33,7 @@ Gender genGender()
 void genSub(subject *sub)
 {
 	char subNum[5];
-	strcpy(sub->nameS, "subject #");
+	strcpy(sub->nameS, "subject#");
 	itoa(rand() % 30, subNum, 10);
 	strcat(sub->nameS, subNum);
 
@@ -64,16 +64,16 @@ void printStud(students *stud)
 	printf("\n");
 }
 
-students * genStud(int * randStud)
+students * genStud(int * countStud)
 {
 	char name[30];
-	*randStud = 10 + rand() % 30;
+	*countStud = 10 + rand() % 30;
 
-	stud = (students*)calloc(*randStud, sizeof(students));
+	stud = (students*)calloc(*countStud, sizeof(students));
 
 	if (stud != NULL)
 	{
-		for (int i = 0; i < *randStud; i++)
+		for (int i = 0; i < *countStud; i++)
 		{
 			CreatName(stud[i].name);
 			generateDate(&stud[i].date);
