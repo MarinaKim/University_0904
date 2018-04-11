@@ -8,7 +8,7 @@
 #include "WorkWithStudent.h"
 
 using namespace std;
-int countStud;
+//int countStud;
 
 void main()
 {

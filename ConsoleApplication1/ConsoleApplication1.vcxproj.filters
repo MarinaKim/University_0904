@@ -35,8 +35,5 @@
     <ClInclude Include="WorkWithStudent.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="WorkWithStydents.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
